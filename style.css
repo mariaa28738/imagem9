@@ -14,7 +14,7 @@ body {
 }
 
 .banner-image {
-    width: 55%; 
+    width: 50%; 
     height: auto; /* Mantém a proporção da imagem */
     display: block;
     margin-left: auto; /* Centraliza horizontalmente */
